@@ -1,4 +1,4 @@
-# Lý thuyết
+# Các phép toán trên bit (bitwise operators)
 
 - Bản chất dữ liệu sẽ được máy tính lưu dưới dạng dãy các bit (dãy các con số 0 hoặc 1). Ví dụ:
 
