@@ -1,0 +1,7 @@
+/.history
+/.vscode
+
+# File compiles
+*.exe
+*.dll
+*.o
